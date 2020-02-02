@@ -20,7 +20,7 @@
 }
 
 .home .avatar {
-  height: 150px;
+  height: 220px;
 }
 
 .home__name {
@@ -146,7 +146,7 @@
           justify-content: center;
   height: 100vh;
   overflow: hidden;
-  background: #272727;
+  background: #fd1d1d;
   list-style-type: none;
   padding-right: 1rem;
   -webkit-transform: translateY(-100%);
