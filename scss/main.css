@@ -44,9 +44,9 @@
 
 @media screen and (max-width: 600px) {
   .home__name--title {
-    color: #484bf7;
-    font-size: 1.5rem;
-    font-weight: 600;
+    color: #fff;
+    font-size: 1.6rem;
+    font-weight: 700;
     padding-bottom: 5px;
   }
 }
