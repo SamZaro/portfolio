@@ -7,7 +7,7 @@
 
 .home {
   height: 100%;
-  padding-top: 15vh;
+  padding-top: 10vh;
   overflow: hidden;
   -webkit-box-align: center;
       -ms-flex-align: center;
@@ -17,6 +17,12 @@
   background: -webkit-gradient(linear, left top, right top, from(#fcb045), color-stop(#fd1d1d), to(#833ab4));
   background: linear-gradient(to right, #fcb045, #fd1d1d, #833ab4);
   /* W3C, IE 10+/ Edge, Firefox 16+, Chrome 26+, Opera 12+, Safari 7+ */
+}
+
+@media screen and (max-width: 600px) {
+  .home .home {
+    padding-top: 5vh;
+  }
 }
 
 .home .avatar {
