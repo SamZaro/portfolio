@@ -53,6 +53,7 @@
   grid-gap: 2rem;
   background: #3a2f20;
   border-radius: 9px;
+  word-wrap: break-word;
   text-overflow: ellipsis;
 }
 
