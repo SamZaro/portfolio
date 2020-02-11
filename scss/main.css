@@ -70,6 +70,9 @@
     padding-top: 5px;
     overflow: hidden;
   }
+}
+
+@media screen and (max-width: 600px) {
   .avatar {
     height: 170px;
   }
